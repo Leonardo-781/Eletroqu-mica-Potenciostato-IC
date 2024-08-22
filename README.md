@@ -1,1 +1,1 @@
-# Eletroqu-mica-Potenciostato-IC
+# Eletroquimica-Potenciostato-IC
