@@ -5,6 +5,7 @@ Este repositório contém um projeto de um potenciostato para aplicações em el
 *Principais Pontos de Função
 
 Desenvolvimento de um potenciostato para aplicações em eletroquímica
+
 Controle e medição do potencial elétrico em uma célula eletroquímica
 
 *Tecnologia Utilizada
